@@ -3,7 +3,7 @@ Training, validation, and testing datasets for the publication "Assessing the ac
 
 # Data architecture
 Each directory contains:
-1.  The compressed structural data (in VASP POSCAR format with .zip file)
+1.  The compressed structural data (in VASP POSCAR format with .zip file, i.e., poscars.zip)
 2.  The corresponding energies and forces data  (Data.json)
 
 Data.json architecture:  
