@@ -4,16 +4,17 @@ Training, validation, and testing datasets for the publication "Assessing the ac
 # Data architecture
 Each directory contains:
 1.  The compressed structural data (in VASP POSCAR format with .zip file)
-2.  The corresponding energies and forces data  (DATA.json)
+2.  The corresponding energies and forces data  (Data.json)
 
-DATA.json architecture:  
+Data.json architecture:  
 |  
-|-- Forces  
-|&emsp;|-- DFT_K4  
+|-- Forces (DFT K4)  
 |  
-|-- Energies  
+|-- Energies (DFT K4)  
 |  
-|-- Structures: [index].POSCAR.vasp  
+|-- Labels: necessary information to categorize each configuration
+|  
+|-- Index: [index].POSCAR.vasp  
 
 # Citation
 If you use the datasets extensively, you may want to cite the following publication:
