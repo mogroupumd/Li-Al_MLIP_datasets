@@ -1,5 +1,5 @@
 # Li-Al_MLIP_datasets
-Training, validation, and testing datasets for the publication "Assessing the accuracy of MLIPs in predicting the elemental ordering: a case study on Li-Al alloys"
+Eight datasets (including two training datasets, two validation datasets, and four testing datasets) for the publication "Assessing the accuracy of MLIPs in predicting the elemental ordering: a case study on Li-Al alloys"
 
 # Data architecture
 Each directory contains:
