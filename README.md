@@ -12,7 +12,7 @@ Data.json architecture:
 |  
 |-- Energies (DFT K4)  
 |  
-|-- Labels: necessary information to categorize each configuration
+|-- Labels: necessary information to categorize each configuration  
 |  
 |-- Index: [index].POSCAR.vasp  
 
