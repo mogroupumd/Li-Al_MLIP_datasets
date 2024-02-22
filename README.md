@@ -17,4 +17,6 @@ Data.json architecture:
 |-- Index: [index].POSCAR.vasp  
 
 # Citation
-If you use the datasets extensively, you may want to cite the following publication:
+If you use the datasets extensively, you may want to cite the following publication:  
+Y. Liu, Y. Mo, Assessing the accuracy of machine learning interatomic potentials in predicting the elemental orderings: A case study of Li-Al alloys, Acta Mater. 268 (2024) 119742.  
+https://doi.org/10.1016/j.actamat.2024.119742.
